@@ -1,4 +1,4 @@
-Hey! I'm Edmozer Cavalcante 
+Hey! I'm Edmozer Cavalcante. As you can see, I really like Java. 
 
 💻 QA Engineer/SDET
 
